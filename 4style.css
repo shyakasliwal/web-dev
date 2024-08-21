@@ -1,0 +1,19 @@
+body{
+        background-image: url('https://c0.wallpaperflare.com/preview/944/356/969/concept-construction-page-site.jpg');
+         background-position: center;
+         background-repeat: no-repeat;
+         background-size: cover;
+        
+    } 
+
+h1{
+    text-align: center;
+  }
+*{
+    color: white;
+}
+img{
+   border: solid;
+}
+
+
